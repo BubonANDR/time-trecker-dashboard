@@ -1,5 +1,5 @@
 - Практическое задание для наработки навыков динамической и адаптивной верстки на Vanilla JS;
-
+- deployed on Github Pages: https://bubonandr.github.io/time-trecker-dashboard/
 
 # Frontend Mentor - Time tracking dashboard solution
 
